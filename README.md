@@ -11,3 +11,8 @@ No. The feature involves a user writing a message, the app sending it over a net
 2. Would you use a unit test to test the "max message length" feature of a messaging application? Why or why not?
 
 Yes. The feature is a single piece of logic. It just checks whether the length of a string exceeds a maximum number of characters. It can be verified with simple inputs and expected outputs and does not need anything else.
+
+## GitHub Pages Links
+
+- Expose Page: https://nhdoan0412.github.io/Lab5_Starter/expose.html
+- Explore Page: https://nhdoan0412.github.io/Lab5_Starter/explore.html
